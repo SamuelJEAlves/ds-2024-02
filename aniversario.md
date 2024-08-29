@@ -24,3 +24,5 @@
 ### Pessoas:
 - Família
 - Amigos
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F575264552402752873%2F&psig=AOvVaw098E1yXkwVQgY5hWw1D-ff&ust=1725057805945000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCw88DLm4gDFQAAAAAdAAAAABAE)
