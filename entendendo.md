@@ -23,4 +23,4 @@ As normas ISO 12207, ISO 42010 e ISO 25010 constituem um conjunto de diretrizes 
 ISO 12207 (Ciclo de Vida): A norma define os processos e atividades associadas ao design de software, como a definição da arquitetura, a criação de modelos e a especificação dos componentes. Ela garante que o design seja realizado de forma sistemática e que atenda aos requisitos do sistema.
 ISO 42010 (Arquitetura): O design de software está intimamente ligado à arquitetura. A ISO 42010 fornece as ferramentas e técnicas necessárias para criar uma arquitetura bem definida e que suporte os requisitos funcionais e não funcionais do sistema.
 ISO 25010 (Qualidade): O design de software tem um impacto direto na qualidade do produto final. A ISO 25010 fornece os critérios para avaliar a qualidade do design, como a portabilidade, a usabilidade e a segurança.
-Em resumo, planeja o design, especifica arquitetura e avalia a qualidade do design.
+- Em resumo, planeja o design, especifica arquitetura e avalia a qualidade do design.
