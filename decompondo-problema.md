@@ -1,5 +1,3 @@
-Aqui está o texto reformulado e formatado de maneira mais clara e organizada:
-
 # Machine Learning
 
 ## Decomposição do Problema (Jogo)
