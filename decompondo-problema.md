@@ -64,5 +64,3 @@ Aqui está o texto reformulado e formatado de maneira mais clara e organizada:
 - **Testar as combinações de cartas:**
   - Verificar se as regras fazem sentido
   - Avaliar se o jogo é divertido e desafiador
-
-Agora o conteúdo está melhor organizado e mais fácil de entender!
